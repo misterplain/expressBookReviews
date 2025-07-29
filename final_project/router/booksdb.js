@@ -6,7 +6,6 @@ let books = {
     title: "The Divine Comedy",
     reviews: {
       patrick: { username: "patrick", review: "great" },
-      patrick1: { username: "patrick1", review: "great1" },
     },
   },
   4: { author: "Unknown", title: "The Epic Of Gilgamesh", reviews: {} },
